@@ -10,6 +10,7 @@ public class Zadanko {
         Enemy enemy = new Enemy(100, 5, 2, 3);
         Weapon knife = new Weapon("Knife", 5);
         Weapon axe = new Weapon("Axe", 7);
+        Weapon saw = new Weapon("Saw", 4);
 
 
         int round = 1;
